@@ -1,5 +1,6 @@
 
-public interface InterfaceEx1 {
+public interface InterfaceEx1
+{
 	
 	
 	public  void mul(int a,int b);
