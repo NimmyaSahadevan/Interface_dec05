@@ -1,6 +1,3 @@
-
-
-
 	public class InheritedInterface implements InterfaceEx, InterfaceEx1
 	{
 		public void add(int a,int b)
